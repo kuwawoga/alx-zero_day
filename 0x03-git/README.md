@@ -1,1 +1,2 @@
-new Readme
+Hello, am good
+My name is Emma
